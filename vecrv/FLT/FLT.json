@@ -1,0 +1,21 @@
+{
+    "merkleRoot": "0x6ad81cbc51be359bc69c4a4abdb7a7949af7560d9e0c7a1ed72cbbd848b85a9e",
+    "tokenTotal": "0x2c835027e7c955a",
+    "tokenAddress": "0x8B22f9Fbacf72d28ccB81792B0b400Df860027c1",
+    "claims": {
+        "0x0012A7F00AF8a643Ba5a6Aa187f915b4c13289Df": {
+            "index": 1691625600,
+            "amount": "0x1641a813f3e4ca1",
+            "proof": [
+                "0xaa5eb80c4155059ccbb02cf35913b8dfc5b876e6441fe2f1a890ea061d6706e9"
+            ]
+        },
+        "0x0012A7f00aF8a643bA5a6aA187F915b4c13239DF": {
+            "index": 1691625600,
+            "amount": "0x1641a813f3e48b9",
+            "proof": [
+                "0x2e4ab1cd1543f60d2138246c141324b51d78d04718ecef39376e9120f8868bf8"
+            ]
+        }
+    }
+}
